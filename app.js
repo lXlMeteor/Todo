@@ -11,6 +11,7 @@ function addTodo(){
         todos.push({text: text});
         console.log(todos);
 
+        
         inputEl.value = '';
     }
 
